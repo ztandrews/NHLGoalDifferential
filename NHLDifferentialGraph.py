@@ -2,7 +2,7 @@
 @auth: ztandrews
 
 NHL Goal Differential Grpahs
--------Instructions--------
+--------Instructions--------
 - Enter the abbreviation for your team in the 'team' variable
 - Run
 '''
